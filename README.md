@@ -83,7 +83,7 @@ aware and cautious in the city.
 
 ---
 
-### 5. Crime Growth Analysis (% Change: 2015–2019 vs 2020–2024)
+### 5. Crime Growth Analysis (% Change: 2015 - 2019 vs 2020 - 2024)
 ![Crime Growth](outputs/crime_growth.jpg)
 
 - Crimes related to personal safety have increased
@@ -96,7 +96,7 @@ aware and cautious in the city.
 - Theft-related crimes remain the most common across the dataset
 - Crime is highly concentrated in urban areas such as the Central Business District
 - There is a visible shift from property-related crimes to personal safety-related crimes
-- Using two equal time periods (2015–2019 vs 2020–2024) ensures a fair and consistent comparison
+- Using two equal time periods (2015 - 2019 vs 2020 - 2024) ensures a fair and consistent comparison
 
 ---
 
