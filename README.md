@@ -1,4 +1,5 @@
 # Vancouver Crime Data Analysis (2015 - 2025)
+An end-to-end SQL project analyzing 10 years of crime data to uncover trends, high-risk areas, and changes in crime patterns over time.
 
 ## Overview
 This project analyzes 10 years of Vancouver crime data to understand trends, identify high-crime neighbourhoods, and examine how crime patterns have changed over time.
