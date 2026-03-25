@@ -51,7 +51,7 @@ aware and cautious in the city.
 
 ## Analysis Performed
 
-### 1. Monthly Crime Trend (2015–2025)
+### 1. Monthly Crime Trend (2015 - 2025)
 ![Monthly Trend](outputs/monthly_trend.jpg)
 
 - Crime levels fluctuate over time
@@ -60,7 +60,7 @@ aware and cautious in the city.
 
 ---
 
-### 2. Top Crime Types (2015–2025)
+### 2. Top Crime Types (2015 - 2025)
 ![Top Crimes](outputs/top_crime.jpg)
 
 - Theft-related crimes dominate across the dataset
@@ -76,7 +76,7 @@ aware and cautious in the city.
 
 ---
 
-### 4. Top Crime Types (Recent Period: 2020–2024)
+### 4. Top Crime Types (Recent Period: 2020 - 2024)
 ![Recent Trends](outputs/recent_trend.jpg)
 
 - Theft-related crimes continue to dominate in recent years  
