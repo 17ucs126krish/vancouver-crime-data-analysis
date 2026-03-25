@@ -74,11 +74,11 @@ aware and cautious in the city.
 ---
 
 ### 4. Top Crime Types (Recent Period: 2020–2024)
-![Recent Trends](outputs/recent_trends.jpg)
+![Recent Trends](outputs/recent_trend.jpg)
 
 - Theft-related crimes continue to dominate in recent years  
 - Despite some decline in growth, these categories still contribute the highest number of incidents
-- When compared with the overall trend (2015–2025), theft-related crimes remain dominant  
+- When compared with the overall trend (2015 - 2025), theft-related crimes remain dominant  
 - However, growth analysis shows that some property crimes have declined while certain personal crimes have increased  
 
 ---
