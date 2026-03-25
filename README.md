@@ -58,7 +58,7 @@ aware and cautious in the city.
 ---
 
 ### 2. Top Crime Types (2015–2025)
-![Top Crimes](outputs/top_crimes.jpg)
+![Top Crimes](outputs/top_crime.jpg)
 
 - Theft-related crimes dominate across the dataset
 - "Other Theft" and "Theft from Vehicle" are the most frequent
