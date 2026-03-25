@@ -1,4 +1,4 @@
-# Vancouver Crime Data Analysis (2015–2025)
+# Vancouver Crime Data Analysis (2015 - 2025)
 
 ## Overview
 This project analyzes 10 years of Vancouver crime data to understand trends, identify high-crime neighbourhoods, and examine how crime patterns have changed over time.
